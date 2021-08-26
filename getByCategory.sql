@@ -1,0 +1,1 @@
+SELECT category FROM public.books
